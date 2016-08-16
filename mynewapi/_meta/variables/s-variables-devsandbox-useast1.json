@@ -1,5 +1,6 @@
 {
   "region": "us-east-1",
   "resourcesStackName": "mynewapi-devsandbox-r",
-  "iamRoleArnLambda": "arn:aws:iam::735723053299:role/mynewapi-devsandbox-r-IamRoleLambda-1FXKE0LABPTJU"
+  "iamRoleArnLambda": "arn:aws:iam::735723053299:role/mynewapi-devsandbox-r-IamRoleLambda-1FXKE0LABPTJU",
+  "apiGatewayApi": "mynewapi"
 }
